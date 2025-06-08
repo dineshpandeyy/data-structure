@@ -1,0 +1,140 @@
+# Grokking + LeetCode Solved Problems
+
+This README combines **Grokking** pattern-based problem sets with my **LeetCode solved problems** sorted by official problem numbers.
+
+---
+
+## Part 1: Grokking Pattern-Based Problems
+
+### 1. Pattern: Two Pointers
+
+- **Pair with Target Sum** _(easy)_
+- **Remove Duplicates** _(easy)_
+- **Squaring a Sorted Array** _(easy)_
+- **Triplet Sum to Zero** _(medium)_
+
+---
+
+### 2. Pattern: Fast & Slow Pointers
+
+- **Linked List Cycle** _(easy)_
+- **Linked List Cycle II** _(medium)_
+- **Happy Number** _(medium)_
+- **Middle of the Linked List** _(easy)_
+
+---
+
+### 3. Pattern: Sliding Window
+
+- **Maximum Sum Subarray of Size K** _(easy)_
+- **Smallest Subarray with a Given Sum** _(easy)_
+- **Longest Substring with K Distinct Characters** _(medium)_
+- **Fruits into Baskets** _(medium)_
+- **No-repeat Substring** _(hard)_
+- **Longest Substring with Same Letters after Replacement** _(hard)_
+- **Longest Subarray with Ones after Replacement** _(hard)_
+- **Problem Challenge 1: Permutation in a String** _(hard)_
+- **Problem Challenge 2: String Anagrams** _(hard)_
+
+#### LeetCode Problems
+
+- **Longest Substring Without Repeating Characters** _(medium)_
+- **Minimum Window Substring** _(hard)_
+- **Sliding Window Maximum** _(hard)_
+
+---
+
+### 4. Pattern: Merge Intervals
+
+#### Grokking Problems
+
+- **Merge Intervals** _(medium)_
+
+#### LeetCode Problems
+
+- **Insert Interval** _(medium)_
+- **Meeting Rooms II** _(medium)_
+
+---
+
+### 5. Pattern: Cyclic Sort
+
+#### Grokking Problems
+
+- **Cyclic Sort** _(easy)_
+- **Find the Missing Number** _(easy)_
+- **Find All Missing Numbers** _(easy)_
+- **Find the Duplicate Number** _(medium)_
+- **Find All Duplicate Numbers** _(medium)_
+
+#### LeetCode Problems
+
+- **First Missing Positive** _(hard)_
+
+---
+
+### 6. Pattern: Topological Sort
+
+#### Grokking Problems
+
+- **Tasks Scheduling** _(medium)_
+- **Tasks Scheduling Order** _(medium)_
+- **All Tasks Scheduling Orders** _(hard)_
+- **Alien Dictionary** _(hard)_
+
+#### LeetCode Problems
+
+- **Course Schedule** _(medium)_
+- **Course Schedule II** _(medium)_
+
+---
+
+### 7. Pattern: Backtracking
+
+#### Grokking Problems
+
+- **Subsets** _(medium)_
+- **Permutations** _(medium)_
+- **String Permutations by Changing Case** _(medium)_
+- **Balanced Parentheses** _(medium)_
+- **Unique Generalized Abbreviations** _(hard)_
+
+#### LeetCode Problems
+
+- **Combination Sum** _(medium)_
+- **Word Search** _(medium)_
+- **N-Queens** _(hard)_
+
+---
+
+## Part 2: LeetCode Solved Problems (Sorted by Problem Number)
+
+This list organizes all my solved LeetCode problems in ascending order of their official problem numbers.
+
+| #    | Title                                                                                                           | Category              |
+| ---- | --------------------------------------------------------------------------------------------------------------- | --------------------- |
+| 1    | [Two Sum](./Leetcode/Array/1_Two_Sum.py)                                                                        | Array                 |
+| 14   | [Longest Common Prefix](./Leetcode/String/14_Longest_Common_Prefix.py)                                          | Generic               |
+| 29   | [Divide Two Integers](./Leetcode/Math/29_Divide_Two_Integers.py)                                                | Math                  |
+| 146  | [LRU Cache](./Leetcode/Design%20Data%20Structure/146_LRU_Cache.py)                                              | Design Data Structure |
+| 243  | [Shortest Word Distance](./Leetcode/String/243_Shortest_Word_Distance.py)                                       | Generic               |
+| 370  | [Range Addition](./Leetcode/Difference%20Array%20Techinique/370_Range_Addition.py)                              | Array                 |
+| 443  | [String Compression](./Leetcode/String/443_String_Compression.py)                                               | String                |
+| 606  | [Construct String from Binary Tree](./Leetcode/Recursion/606_Construct_String_from_Binary_Tree.py)              | Recursion             |
+| 767  | [Reorganize String](./Leetcode/Heap/767_Reorganize_String.py)                                                   | Heap                  |
+| 779  | [K-th Symbol in Grammar](./Leetcode/Recursion/779_K-th_Symbol_in_Grammar.py)                                    | Recursion             |
+| 1832 | [Check if the Sentence Is Pangram](./Leetcode/String/1832_Check_if_the_Sentence_Is_Pangram.py)                  | String                |
+| 2381 | [Shifting Letters II](./Leetcode/Difference%20Array%20Techinique/2381_Shifting_Letters_II.py)                   | Array                 |
+| 3356 | [Zero Array Transformation II](./Leetcode/Difference%20Array%20Techinique/3356_Zero_Array_Transformation_II.py) | Array                 |
+
+---
+
+More solutions coming soon. This list will be updated regularly.
+
+---
+
+## Notes
+
+- Problems in Part 1 are grouped by common algorithmic patterns for structured learning.
+- Part 2 provides a quick reference to individual LeetCode solutions sorted by problem number.
+- Links point to the corresponding source files in the repository.

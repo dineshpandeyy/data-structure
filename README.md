@@ -46,6 +46,16 @@
 
 ---
 
+## 9. Pattern: Hash Maps
+
+- **First Non-repeating Character** _(easy)_
+- **Largest Unique Number** _(easy)_
+- **Maximum Number of Balloons** _(easy)_
+- **Longest Palindrome** _(easy)_
+- **Ransom Note** _(easy)_
+
+---
+
 ## 24. Patterns: Topological Sort
 
 - **Tasks Scheduling** _(medium)_

@@ -36,12 +36,6 @@ This README combines **Grokking** pattern-based problem sets with my **LeetCode 
 - **Problem Challenge 1: Permutation in a String** _(hard)_
 - **Problem Challenge 2: String Anagrams** _(hard)_
 
-#### LeetCode Problems
-
-- **Longest Substring Without Repeating Characters** _(medium)_
-- **Minimum Window Substring** _(hard)_
-- **Sliding Window Maximum** _(hard)_
-
 ---
 
 ### 4. Pattern: Merge Intervals
@@ -49,11 +43,6 @@ This README combines **Grokking** pattern-based problem sets with my **LeetCode 
 #### Grokking Problems
 
 - **Merge Intervals** _(medium)_
-
-#### LeetCode Problems
-
-- **Insert Interval** _(medium)_
-- **Meeting Rooms II** _(medium)_
 
 ---
 
@@ -64,46 +53,68 @@ This README combines **Grokking** pattern-based problem sets with my **LeetCode 
 - **Cyclic Sort** _(easy)_
 - **Find the Missing Number** _(easy)_
 - **Find All Missing Numbers** _(easy)_
-- **Find the Duplicate Number** _(medium)_
-- **Find All Duplicate Numbers** _(medium)_
-
-#### LeetCode Problems
-
-- **First Missing Positive** _(hard)_
 
 ---
 
-### 6. Pattern: Topological Sort
+### 6. Pattern: In-place Reversal of a LinkedList
 
-#### Grokking Problems
+- **Reverse a LinkedList** _(easy)_
+
+---
+
+### 7. Pattern: Stack
+
+- **Balanced Parentheses** _(medium)_
+
+---
+
+### 9. Pattern: Hash Maps (Character Hashing & Frequency Count)
+
+- **First Non-repeating Character** _(easy)_
+- **Largest Unique Number** _(easy)_
+- **Maximum Number of Balloons** _(easy)_
+- **Longest Palindrome** _(easy)_
+- **Ransom Note** _(easy)_
+
+---
+
+### 10. Pattern: Tree Breadth First Search
+
+- **Average of Levels in Binary Tree** _(easy)_
+- **Binary Tree Level Order Traversal** _(easy)_
+- **Binary Tree Level Order Traversal II** _(easy)_
+- **Binary Tree Zigzag Level Order Traversal** _(medium)_
+- **Connect Level Order Siblings** _(medium)_
+- **Level Order Successor** _(medium)_
+- **Maximum Depth of Binary Tree** _(easy)_
+- **Minimum Depth of a Binary Tree** _(easy)_
+
+---
+
+### 11. Pattern: Tree Depth First Search
+
+- **Binary Tree Path Sum** _(easy)_
+
+---
+
+### 24. Pattern: Topological Sort
 
 - **Tasks Scheduling** _(medium)_
 - **Tasks Scheduling Order** _(medium)_
 - **All Tasks Scheduling Orders** _(hard)_
 - **Alien Dictionary** _(hard)_
 
-#### LeetCode Problems
+---
 
-- **Course Schedule** _(medium)_
-- **Course Schedule II** _(medium)_
+### 26. Pattern: Ordered Set
+
+- **2363 Merge Similar Items** _(easy)_
 
 ---
 
-### 7. Pattern: Backtracking
+### Test Your Knowledge Section
 
-#### Grokking Problems
-
-- **Subsets** _(medium)_
-- **Permutations** _(medium)_
-- **String Permutations by Changing Case** _(medium)_
-- **Balanced Parentheses** _(medium)_
-- **Unique Generalized Abbreviations** _(hard)_
-
-#### LeetCode Problems
-
-- **Combination Sum** _(medium)_
-- **Word Search** _(medium)_
-- **N-Queens** _(hard)_
+- **Group Anagrams** _(medium)_
 
 ---
 

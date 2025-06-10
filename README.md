@@ -12,6 +12,7 @@ This README combines **Grokking** pattern-based problem sets with my **LeetCode 
 - **Remove Duplicates** _(easy)_
 - **Squaring a Sorted Array** _(easy)_
 - **Triplet Sum to Zero** _(medium)_
+- **Triplet Sum Close to Target** _(medium)_
 
 ---
 
@@ -40,15 +41,11 @@ This README combines **Grokking** pattern-based problem sets with my **LeetCode 
 
 ### 4. Pattern: Merge Intervals
 
-#### Grokking Problems
-
 - **Merge Intervals** _(medium)_
 
 ---
 
 ### 5. Pattern: Cyclic Sort
-
-#### Grokking Problems
 
 - **Cyclic Sort** _(easy)_
 - **Find the Missing Number** _(easy)_

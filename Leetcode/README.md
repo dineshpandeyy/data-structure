@@ -12,6 +12,8 @@ This repository contains my solutions to selected LeetCode problems, organized b
 | 2381 | [Shifting Letters II](./Array/2381_Shifting_Letters_II.py)                   | Applies the difference array technique to perform efficient updates.     |
 | 3356 | [Zero Array Transformation II](./Array/3356_Zero_Array_Transformation_II.py) | Uses greedy logic and range updates for array transformation.            |
 | 370  | [Range Addition](./Array/370_Range_Addition.py)                              | Demonstrates efficient range addition using the difference array method. |
+| 3423  | [Maximum Difference Between Adjacent Elements in a Circular Array](./Array/3423_Maximum_Difference_Between_Adjacent_Elementsin_a_Circular_Array.py)                              | Circular array technique of using modulo |
+
 
 ---
 

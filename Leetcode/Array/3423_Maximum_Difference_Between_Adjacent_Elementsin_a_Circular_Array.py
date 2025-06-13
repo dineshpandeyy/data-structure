@@ -29,7 +29,5 @@ def maxAdjacentDistance(nums):
             maxRes = max(abs(nums[i % N]- nums[(i+1) % N]), maxRes)
         return maxRes
 
-
-
 nums = [-5,-10,-5]
 print(maxAdjacentDistance([-5,-10,-5]))

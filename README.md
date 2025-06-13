@@ -13,6 +13,10 @@ This README combines **Grokking** pattern-based problem sets with my **LeetCode 
 - **Squaring a Sorted Array** _(easy)_
 - **Triplet Sum to Zero** _(medium)_
 - **Triplet Sum Close to Target** _(medium)_
+- **Triplets with Smaller Sum** _(medium)_
+- **Comparing Strings containing Backspaces** _(medium)_
+- **Dutch National Flag Problem** _(medium)_
+- **Subarrays with Product Less than a Target** _(medium)_
 
 ---
 
@@ -65,7 +69,13 @@ This README combines **Grokking** pattern-based problem sets with my **LeetCode 
 
 ---
 
-### 9. Pattern: Hash Maps (Character Hashing & Frequency Count)
+### 8. Pattern: Monotonic Stack
+
+- **Remove Nodes From Linked List** _(easy)_
+
+---
+
+### 9. Pattern: Hash Maps
 
 - **First Non-repeating Character** _(easy)_
 - **Largest Unique Number** _(easy)_
@@ -94,6 +104,34 @@ This README combines **Grokking** pattern-based problem sets with my **LeetCode 
 
 ---
 
+### 13. Pattern: Island (Matrix traversal)
+
+- **Number of Islands** _(medium)_
+
+
+---
+
+### 15. Pattern: Subsets
+
+- **Subsets** _(medium)_
+- **Subsets with Duplicates** _(medium)_
+- **Permutations** _(medium)_
+
+---
+
+### 17. Pattern: Bitwise XOR
+
+- **Single Number** _(easy)_
+- **Two Single Numbers** _(medium)_
+
+---
+
+### 18. Pattern: Top 'K' Elements
+
+- **Top K Numbers** _(easy)_
+
+---
+
 ### 24. Pattern: Topological Sort
 
 - **Tasks Scheduling** _(medium)_
@@ -106,6 +144,13 @@ This README combines **Grokking** pattern-based problem sets with my **LeetCode 
 ### 26. Pattern: Ordered Set
 
 - **2363 Merge Similar Items** _(easy)_
+
+---
+
+### 27. Pattern: Multi-thread
+
+- **Same Tree** _(easy)_
+- **Invert Binary Tree** _(medium)_
 
 ---
 
@@ -133,6 +178,7 @@ This list organizes all my solved LeetCode problems in ascending order of their 
 | 779  | [K-th Symbol in Grammar](./Leetcode/Recursion/779_K-th_Symbol_in_Grammar.py)                                                             | Recursion             |
 | 1832 | [Check if the Sentence Is Pangram](./Leetcode/String/1832_Check_if_the_Sentence_Is_Pangram.py)                                           | String                |
 | 2381 | [Shifting Letters II](./Leetcode/Difference%20Array%20Techinique/2381_Shifting_Letters_II.py)                                            | Array                 |
+| 3423  | [Maximum Difference Between Adjacent Elements in a Circular Array](./Leetcode/Array/3423_Maximum_Difference_Between_Adjacent_Elementsin_a_Circular_Array.py)                              | Array |
 | 3442 | [Maximum Difference Between Even and Odd Frequency I](./Leetcode/Hash%20Table/3442_Maximum_Difference_Between_Even_and_Odd_Frequency.py) | Hash Table            |
 | 3356 | [Zero Array Transformation II](./Leetcode/Difference%20Array%20Techinique/3356_Zero_Array_Transformation_II.py)                          | Array                 |
 

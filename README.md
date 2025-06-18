@@ -167,20 +167,27 @@ This list organizes all my solved LeetCode problems in ascending order of their 
 | #    | Title                                                                                                                                    | Category              |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
 | 1    | [Two Sum](./Leetcode/Array/1_Two_Sum.py)                                                                                                 | Array                 |
-| 14   | [Longest Common Prefix](./Leetcode/String/14_Longest_Common_Prefix.py)                                                                   | Generic               |
+| 14   | [Longest Common Prefix](./Leetcode/String/14_Longest_Common_Prefix.py)                                                                   | String                |
 | 29   | [Divide Two Integers](./Leetcode/Math/29_Divide_Two_Integers.py)                                                                         | Math                  |
 | 146  | [LRU Cache](./Leetcode/Design%20Data%20Structure/146_LRU_Cache.py)                                                                       | Design Data Structure |
-| 243  | [Shortest Word Distance](./Leetcode/String/243_Shortest_Word_Distance.py)                                                                | Generic               |
+| 243  | [Shortest Word Distance](./Leetcode/String/243_Shortest_Word_Distance.py)                                                                | String                |
 | 370  | [Range Addition](./Leetcode/Difference%20Array%20Techinique/370_Range_Addition.py)                                                       | Array                 |
+| 392  | [Is Subsequence](./Leetcode/String/392_Is_Subsequence.py)                                                                                | String                |
 | 443  | [String Compression](./Leetcode/String/443_String_Compression.py)                                                                        | String                |
 | 606  | [Construct String from Binary Tree](./Leetcode/Recursion/606_Construct_String_from_Binary_Tree.py)                                       | Recursion             |
 | 767  | [Reorganize String](./Leetcode/Heap/767_Reorganize_String.py)                                                                            | Heap                  |
 | 779  | [K-th Symbol in Grammar](./Leetcode/Recursion/779_K-th_Symbol_in_Grammar.py)                                                             | Recursion             |
+| 1128 | [Number of Equivalent Domino Pairs](./Leetcode/Array/1128_Number_of_Equivalent_Domino_Pairs.py)                                          | Array                 |
+| 1432 | [Max Difference You Can Get From Changing an Integer](./Leetcode/Array/1432_Max_Difference_You_Can_Get_From_Changing_an_Integer.py)      | Array                 |
+| 1464 | [Maximum Product of Two Elements in an Array](./Leetcode/Array/1464_Maximum_Product_of_Two_Elements_in_an_Array.py)                      | Array                 |
+| 1752 | [Check if Array Is Sorted and Rotated](./Leetcode/Array/1752_Check_if_Array_Is_Sorted_and_Rotated.py)                                    | Array                 |
+| 1796 | [Second Largest Digit in a String](./Leetcode/String/1796_Second_Largest_Digit_in_a_String.py)                                           | String                |
 | 1832 | [Check if the Sentence Is Pangram](./Leetcode/String/1832_Check_if_the_Sentence_Is_Pangram.py)                                           | String                |
+| 2016 | [Maximum Difference Between Increasing Elements](./Leetcode/Array/2016_Maximum_Difference_Between_Increasing_Elements.py)                 | Array                 |
 | 2381 | [Shifting Letters II](./Leetcode/Difference%20Array%20Techinique/2381_Shifting_Letters_II.py)                                            | Array                 |
-| 3423  | [Maximum Difference Between Adjacent Elements in a Circular Array](./Leetcode/Array/3423_Maximum_Difference_Between_Adjacent_Elementsin_a_Circular_Array.py)                              | Array |
-| 3442 | [Maximum Difference Between Even and Odd Frequency I](./Leetcode/Hash%20Table/3442_Maximum_Difference_Between_Even_and_Odd_Frequency.py) | Hash Table            |
-| 3356 | [Zero Array Transformation II](./Leetcode/Difference%20Array%20Techinique/3356_Zero_Array_Transformation_II.py)                          | Array                 |
+| 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](./Leetcode/Array/3423_Maximum_Difference_Between_Adjacent_Elementsin_a_Circular_Array.py) | Array |
+| 3442 | [Maximum Difference Between Even and Odd Frequency I](./Leetcode/Hash%20Table/3442_Maximum_Difference_Between_Even_and_Odd_Frequency.py) | Array |     
+| 3356 | [Zero Array Transformation II](./Leetcode/Difference%20Array%20Techinique/3356_Zero_Array_Transformation_II.py)                          | Array     |
 
 ---
 

@@ -172,6 +172,7 @@ This list organizes all my solved LeetCode problems in ascending order of their 
 | 62   | [Unique Paths](./Leetcode/Dynamic%20Programming/DP%20on%20Grid/62_Unique_Paths.py)                                                       | Dynamic Programming   |
 | 63   | [Unique Paths II](./Leetcode/Dynamic%20Programming/DP%20on%20Grid/63_Unique_Paths_II.py)                                                 | Dynamic Programming   |
 | 87   | [Scramble String](./Leetcode/Recursion/87_Scramble_String.py)                                                                            | Recursion             |
+| 95   | [Unique Binary Search Trees II](./Leetcode/BInary%20Search%20Tree/95_Unique_Binary_Search_Trees_II.py)                                   | Binary Search Tree    |
 | 146  | [LRU Cache](./Leetcode/Design%20Data%20Structure/146_LRU_Cache.py)                                                                       | Design Data Structure |
 | 243  | [Shortest Word Distance](./Leetcode/String/243_Shortest_Word_Distance.py)                                                                | String                |
 | 300  | [Longest Increasing Subsequence](./Leetcode/Dynamic%20Programming/LIS%20and%20its%20varient/300_Longest_Increasing_Subsequence.py)        | Dynamic Programming   |
@@ -179,41 +180,63 @@ This list organizes all my solved LeetCode problems in ascending order of their 
 | 355  | [Design Twitter](./Leetcode/Design%20Data%20Structure/355_Design_Twitter.py)                                                             | Design Data Structure |
 | 370  | [Range Addition](./Leetcode/Difference%20Array%20Techinique/370_Range_Addition.py)                                                       | Array                 |
 | 392  | [Is Subsequence](./Leetcode/String/392_Is_Subsequence.py)                                                                                | String                |
+| 404  | [Sum of Left Leaves](./Leetcode/BInary%20Search%20Tree/404_Sum_of_Left_Leaves.py)                                                        | Binary Search Tree    |
 | 429  | [N-ary Tree Level Order Traversal](./Leetcode/BFS/429_N-ary_Tree_Level_Order_Traversal.py)                                               | BFS                   |
 | 443  | [String Compression](./Leetcode/String/443_String_Compression.py)                                                                        | String                |
+| 559  | [Maximum Depth of N-ary Tree](./Leetcode/BFS/559_Maximum_Depth_of_N-ary_Tree.py)                                                        | BFS                   |
 | 606  | [Construct String from Binary Tree](./Leetcode/Recursion/606_Construct_String_from_Binary_Tree.py)                                       | Recursion             |
 | 641  | [Design Circular Deque](./Leetcode/Design%20Data%20Structure/641_Design_Circular_Deque.py)                                               | Design Data Structure |
 | 646  | [Maximum Length of Pair Chain](./Leetcode/Dynamic%20Programming/LIS%20and%20its%20varient/646_Maximum_Length_of_Pair_Chain.py)           | Dynamic Programming   |
+| 653  | [Two Sum IV - Input is a BST](./Leetcode/BFS/653_Two_Sum_IV_Input_is_a_BST.py)                                                           | BFS                   |
 | 654  | [Maximum Binary Tree](./Leetcode/Binary%20Tree/654_Maximum_Binary_Tree.py)                                                               | Binary Tree           |
-| 767  | [Reorganize String](./Leetcode/Heap/767_Reorganize_String.py)                                                                            | Heap                  |
+| 743  | [Network Delay Time](./Leetcode/Dijkstra%20Algorithm/743_Network_Delay_Time.py)                                                           | Dijkstra Algorithm    |
 | 752  | [Open the Lock](./Leetcode/BFS/752_Open_the_Lock.py)                                                                                     | BFS                   |
+| 767  | [Reorganize String](./Leetcode/Heap/767_Reorganize_String.py)                                                                            | Heap                  |
 | 779  | [K-th Symbol in Grammar](./Leetcode/Recursion/779_K-th_Symbol_in_Grammar.py)                                                             | Recursion             |
+| 785  | [Is Graph Bipartite?](./Leetcode/Graph/785_Is_Graph_Bipartite.py)                                                                      | Graph                 |
 | 791  | [Custom Sort String](./Leetcode/Hash%20Table/791_Custom_Sort_String.py)                                                                  | Hash Table            |
 | 841  | [Keys and Rooms](./Leetcode/DFS/841_Keys_and_Rooms.py)                                                                                   | DFS                   |
+| 849  | [Maximize Distance to Closest Person](./Leetcode/Array/849_Maximize_Distance_to_Closest_Person.py)                                       | Array                 |
 | 875  | [Koko Eating Bananas](./Leetcode/Binary%20Search/875_Koko_Eating_Bananas.py)                                                             | Binary Search         |
+| 886  | [Possible Bipartition](./Leetcode/Graph/886_Possible_Bipartition.py)                                                                     | Graph                 |
+| 897  | [Increasing Order Search Tree](./Leetcode/BInary%20Search%20Tree/897_Increasing_Order_Search_Tree.py)                                    | Binary Search Tree    |
+| 965  | [Univalued Binary Tree](./Leetcode/BInary%20Search%20Tree/965_Univalued_Binary_Tree.py)                                                  | Binary Search Tree    |
+| 993  | [Cousins in Binary Tree](./Leetcode/BInary%20Search%20Tree/993_Cousins_in_Binary_Tree.py)                                                | Binary Search Tree    |
 | 997  | [Find the Town Judge](./Leetcode/Graph/997_Find_the_Town_Judge.py)                                                                       | Graph                 |
 | 1020 | [Number of Enclaves](./Leetcode/DFS/1020_Number_of_Enclaves.py)                                                                          | DFS                   |
 | 1048 | [Longest String Chain](./Leetcode/Dynamic%20Programming/LIS%20and%20its%20varient/1048_Longest_String_Chain.py)                          | Dynamic Programming   |
 | 1128 | [Number of Equivalent Domino Pairs](./Leetcode/Array/1128_Number_of_Equivalent_Domino_Pairs.py)                                          | Array                 |
 | 1254 | [Number of Closed Islands](./Leetcode/DFS/1254_Number_of_Closed_Islands.py)                                                              | DFS                   |
+| 1305 | [All Elements in Two Binary Search Trees](./Leetcode/BInary%20Search%20Tree/1305_All_Elements_in_Two_Binary_Search_Trees.py)              | Binary Search Tree    |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](./Leetcode/BFS/1315_Sum_of_Nodes_with_Even-Valued_Grandparent.py)                            | BFS                   |
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./Leetcode/Dijkstra%20Algorithm/1334_Find_the_City_With_the_Smallest_Number_of_Neighborsat_a_Threshold_Distance.py) | Dijkstra Algorithm |
 | 1368 | [Minimum Cost to Make at Least One Valid Path in a Grid](./Leetcode/BFS/1368_Minimum_Cost_to_Make_at_Least_One_Valid_Path_in_a_Grid.py)  | BFS                   |
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](./Leetcode/BFS/1379_Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree.py) | BFS |
+| 1382 | [Balance a Binary Search Tree](./Leetcode/BInary%20Search%20Tree/1382_Balance_a_Binary_Search_Tree.py)                                   | Binary Search Tree    |
 | 1432 | [Max Difference You Can Get From Changing an Integer](./Leetcode/Array/1432_Max_Difference_You_Can_Get_From_Changing_an_Integer.py)      | Array                 |
 | 1464 | [Maximum Product of Two Elements in an Array](./Leetcode/Array/1464_Maximum_Product_of_Two_Elements_in_an_Array.py)                      | Array                 |
+| 1514 | [Path with Maximum Probability](./Leetcode/Dijkstra%20Algorithm/1514_Path_with_Maximum_Probability.py)                                   | Dijkstra Algorithm    |
 | 1552 | [Magnetic Force Between Two Balls](./Leetcode/Binary%20Search/1552_Magnetic_Force_Between_Two_Balls.py)                                  | Binary Search         |
+| 1584 | [Min Cost to Connect All Points](./Leetcode/Minimum%20Spanning%20Tree/1584_Min_Cost_to_Connect_All_Points.py)                            | Minimum Spanning Tree |
 | 1752 | [Check if Array Is Sorted and Rotated](./Leetcode/Array/1752_Check_if_Array_Is_Sorted_and_Rotated.py)                                    | Array                 |
+| 1765 | [Map of Highest Peak](./Leetcode/BFS/1765_Map_of_Highest_Peak.py)                                                                        | BFS                   |
+| 1786 | [Number of Restricted Paths From First to Last Node](./Leetcode/Dijkstra%20Algorithm/1786_Number_of_Restricted_Paths_From_First_to_Last_Node.py) | Dijkstra Algorithm |
 | 1791 | [Find Center of Star Graph](./Leetcode/Graph/1791_Find_Center_of_Star_Graph.py)                                                          | Graph                 |
 | 1796 | [Second Largest Digit in a String](./Leetcode/String/1796_Second_Largest_Digit_in_a_String.py)                                           | String                |
 | 1832 | [Check if the Sentence Is Pangram](./Leetcode/String/1832_Check_if_the_Sentence_Is_Pangram.py)                                           | String                |
+| 1976 | [Number of Ways to Arrive at Destination](./Leetcode/Dijkstra%20Algorithm/1976_Number_of_Ways_to_Arrive_at_Destination.py)                 | Dijkstra Algorithm    |
 | 2016 | [Maximum Difference Between Increasing Elements](./Leetcode/Array/2016_Maximum_Difference_Between_Increasing_Elements.py)                 | Array                 |
 | 2131 | [Longest Palindrome by Concatenating Two Letter Words](./Leetcode/Hash%20Table/2131_Longest_Palindrome_by_Concatenating_Two_Letter_Words.py) | Hash Table        |
+| 2138 | [Divide a String Into Groups of Size k](./Leetcode/Array/2138_Divide_a_String_Into_Groups_of_Size_k.py)                                   | Array                 |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](./Leetcode/BFS/2290_Minimum_Obstacle_Removal_to_Reach_Corner.py)                              | BFS                   |
 | 2294 | [Partition Array Such That Maximum Difference Is K](./Leetcode/Greedy/2294_Partition_Array_Such_That_Maximum_Difference_Is_K.py)          | Greedy                |
 | 2328 | [Number of Increasing Paths in a Grid](./Leetcode/Dynamic%20Programming/DP%20on%20Grid/2328_Number_of_Increasing_Paths_in_a_Grid.py)      | Dynamic Programming   |
 | 2373 | [Largest Local Values in a Matrix](./Leetcode/Matrix/2373_Largest_Local_Values_in_a_Matrix.py)                                           | Matrix                |
 | 2381 | [Shifting Letters II](./Leetcode/Difference%20Array%20Techinique/2381_Shifting_Letters_II.py)                                            | Array                 |
+| 2392 | [Build a Matrix With Conditions](./Leetcode/Graph/TopoSort/2392_Build_a_Matrix_With_Conditions.py)                                       | Graph                 |
+| 2452 | [Words Within Two Edits of Dictionary](./Leetcode/String/2452_Words_Within_Two_Edits_of_Dictionary.py)                                    | String                |
 | 2566 | [Maximum Difference by Remapping a Digit](./Leetcode/Greedy/2566_Maximum_Difference_by_Remapping_a_Digit.py)                             | Greedy                |
+| 2642 | [Design Graph With Shortest Path Calculator](./Leetcode/Dijkstra%20Algorithm/2642_Design_Graph_With_Shortest_Path_Calculator.py)           | Dijkstra Algorithm    |
 | 2894 | [Divisible and Non-divisible Sums Difference](./Leetcode/Math/2894_Divisible_and_Non-divisible_Sums_Difference.py)                        | Math                  |
 | 2974 | [Minimum Number Game](./Leetcode/Heap/2974_Minimum_Number_Game.py)                                                                       | Heap                  |
 | 3264 | [Final Array State After K Multiplication Operations I](./Leetcode/Heap/3264_Final_Array_State_After_K_Multiplication_Operations_I.py)    | Heap                  |
